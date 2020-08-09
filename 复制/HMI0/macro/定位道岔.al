@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MacroRegAddressLib><MacroRegAddress Name="x" OperationMode="1" DataType="unsigned int" ArrayNumber="1"><Address Function="x" UseIndexAddr="0" ImportTag="No"><RegAddr MasterValue="160" SlaveValue="0" MasterValueType="2" WordCount="2"><HMIID UsagePort="0">0</HMIID><PLCID>0</PLCID><AddressType SystemID="255">LW</AddressType><AddressValue Type="Word" Length="2" CodeType="0">160</AddressValue><Priority>普通</Priority></RegAddr></Address></MacroRegAddress></MacroRegAddressLib>

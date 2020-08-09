@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MacroRegAddressLib><MacroRegAddress Name="RW2000" OperationMode="1" DataType="signed short" ArrayNumber="1"><Address Function="RW2000" UseIndexAddr="0" ImportTag="No"><RegAddr MasterValue="2000" SlaveValue="0" MasterValueType="2" WordCount="1"><HMIID UsagePort="0">0</HMIID><PLCID>65534</PLCID><AddressType SystemID="253">RW</AddressType><AddressValue Type="Word" Length="1" CodeType="0">2000</AddressValue><Priority>普通</Priority></RegAddr></Address></MacroRegAddress></MacroRegAddressLib>
